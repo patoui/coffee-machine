@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Does an array contain N?/Coffee_Machine.Problems-Does_an_array_contain_N_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Does an array contain N?/Coffee_Machine.Problems-Does_an_array_contain_N_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Does an array contain N?/Coffee_Machine.Problems-Does_an_array_contain_N_.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Does an array contain N?/Coffee_Machine.Problems-Does_an_array_contain_N_.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Does an array contain N?/Coffee_Machine.Problems-Does_an_array_contain_N_.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Does an array contain N?/Coffee_Machine.Problems-Does_an_array_contain_N_.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Coffee_Machine.Problems-The_index_of_the_first_max_in_an_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Coffee_Machine.Problems-The_index_of_the_first_max_in_an_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Coffee_Machine.Problems-The_index_of_the_first_max_in_an_array.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Coffee_Machine.Problems-The_index_of_the_first_max_in_an_array.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Coffee_Machine.Problems-The_index_of_the_first_max_in_an_array.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Coffee_Machine.Problems-The_index_of_the_first_max_in_an_array.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The maximum product of adjacent elements/Coffee_Machine.Problems-The_maximum_product_of_adjacent_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The maximum product of adjacent elements/Coffee_Machine.Problems-The_maximum_product_of_adjacent_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The maximum product of adjacent elements/Coffee_Machine.Problems-The_maximum_product_of_adjacent_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The maximum product of adjacent elements/Coffee_Machine.Problems-The_maximum_product_of_adjacent_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The maximum product of adjacent elements/Coffee_Machine.Problems-The_maximum_product_of_adjacent_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The maximum product of adjacent elements/Coffee_Machine.Problems-The_maximum_product_of_adjacent_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" />
+    </modules>
+  </component>
+</project>
